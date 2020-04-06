@@ -82,3 +82,7 @@ Run `nx dep-graph` to see a diagram of the dependencies of your projects.
 ## Further help
 
 Visit the [Nx Documentation](https://nx.dev/angular) to learn more.
+
+### Code This, Not That
+
+- (RxJS Top Ten) https://www.youtube.com/watch?v=ewcoEYS85Co&feature=emb_rel_pause
