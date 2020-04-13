@@ -98,3 +98,7 @@ Visit the [Nx Documentation](https://nx.dev/angular) to learn more.
 
 ### Cypress
 - Streaming Test Results (https://www.cypress.io/blog/2020/04/01/streaming-test-results/)
+
+### NX 
+- Compose apps from hundreds of libs (https://blog.nrwl.io/how-to-never-build-or-test-the-same-code-twice-2dc58e413279)
+- Blog (https://blog.nrwl.io/angular/home)
