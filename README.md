@@ -89,3 +89,6 @@ Visit the [Nx Documentation](https://nx.dev/angular) to learn more.
 
 ### Unit Test Examples / Best Practices
 - https://dev.to/lysofdev/an-angular-testing-cheatsheet-5hj2
+
+### Cypress
+- Streaming Test Results (https://www.cypress.io/blog/2020/04/01/streaming-test-results/)
