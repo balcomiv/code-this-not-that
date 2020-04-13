@@ -90,6 +90,9 @@ Visit the [Nx Documentation](https://nx.dev/angular) to learn more.
 ### Attribute Directives
 - https://netbasal.com/attribute-directives-angular-forms-b40503643089
 
+### Control Value Accessor
+- https://netbasal.com/attribute-directives-angular-forms-b40503643089
+
 ### Unit Test Examples / Best Practices
 - https://dev.to/lysofdev/an-angular-testing-cheatsheet-5hj2
 
