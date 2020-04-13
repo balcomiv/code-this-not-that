@@ -87,6 +87,9 @@ Visit the [Nx Documentation](https://nx.dev/angular) to learn more.
 
 - (RxJS Top Ten) https://www.youtube.com/watch?v=ewcoEYS85Co&feature=emb_rel_pause
 
+### Attribute Directives
+- https://netbasal.com/attribute-directives-angular-forms-b40503643089
+
 ### Unit Test Examples / Best Practices
 - https://dev.to/lysofdev/an-angular-testing-cheatsheet-5hj2
 
