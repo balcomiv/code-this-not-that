@@ -108,3 +108,7 @@ Visit the [Nx Documentation](https://nx.dev/angular) to learn more.
 
 ### CSS / SCSS
 - https://css-tricks.com/building-skeleton-screens-css-custom-properties/
+
+### Mono Repoo Design
+- https://indepth.dev/the-shell-library-patterns-with-nx-and-monorepo-architectures/
+= https://go.nrwl.io/angular-enterprise-monorepo-patterns-new-book
